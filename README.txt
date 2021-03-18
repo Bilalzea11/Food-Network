@@ -3,11 +3,11 @@ TITLE:
 Food
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by Bilal Zeamari
 
-Website: #
-Twitter: #
-Facebook: #
+Instagram: Belal.zea_11
+Twitter: BelalZeamari11
+Facebook: BilalZea
 
 
 CREDITS:
@@ -51,5 +51,3 @@ http://markdalgleish.com/projects/stellar.js/
 Demo Images:
 http://pexels.com
 
-Icon Images Hand-drawn
-handdrawngoods.com/store/tasty-icons-free-food-icons/
